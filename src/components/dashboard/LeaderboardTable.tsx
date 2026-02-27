@@ -41,14 +41,14 @@ const columns: { role: Role; label: string; data: Contributor[] }[] = [
 
 const roleAccentColor: Record<Role, string> = {
   builder: "#e99322",
-  validator: "#8d81e1",
-  community: "#4f76f6",
+  validator: "#4f76f6",
+  community: "#8d81e1",
 };
 
 const roleAvatarBg: Record<Role, string> = {
   builder: "rgba(233,147,34,0.10)",
-  validator: "#f4f2fc",
-  community: "rgba(79,118,246,0.10)",
+  validator: "rgba(79,118,246,0.10)",
+  community: "#f4f2fc",
 };
 
 function UpArrow() {

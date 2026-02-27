@@ -41,8 +41,8 @@ const brandPurple = [
 
 const roleColors = [
   { name: "Builder", token: "--color-role-builder", hex: "#E99322", bg: "rgba(233,147,34,0.1)", bgHex: "#FDF3E7" },
-  { name: "Validator", token: "--color-role-validator", hex: "#8D81E1", bg: "#F4F2FC", bgHex: "#F4F2FC" },
-  { name: "Community", token: "--color-role-community", hex: "#4F76F6", bg: "rgba(79,118,246,0.1)", bgHex: "#ECF0FE" },
+  { name: "Validator", token: "--color-role-validator", hex: "#4F76F6", bg: "rgba(79,118,246,0.1)", bgHex: "#ECF0FE" },
+  { name: "Community", token: "--color-role-community", hex: "#8D81E1", bg: "#F4F2FC", bgHex: "#F4F2FC" },
   { name: "Steward", token: "--color-role-steward", hex: "#3EB359", bg: "rgba(62,179,89,0.1)", bgHex: "#EBF8EE" },
 ];
 

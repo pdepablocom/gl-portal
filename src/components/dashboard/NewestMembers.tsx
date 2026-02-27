@@ -24,8 +24,8 @@ const tabs: Tab[] = ["Overall", "Builders", "Validators", "Community"];
 
 const roleColors: Record<Role, { dot: string; bg: string }> = {
   builder: { dot: "#e99322", bg: "rgba(233,147,34,0.10)" },
-  validator: { dot: "#8d81e1", bg: "#f4f2fc" },
-  community: { dot: "#4f76f6", bg: "rgba(79,118,246,0.10)" },
+  validator: { dot: "#4f76f6", bg: "rgba(79,118,246,0.10)" },
+  community: { dot: "#8d81e1", bg: "#f4f2fc" },
 };
 
 function filterByTab(members: Member[], tab: Tab): Member[] {

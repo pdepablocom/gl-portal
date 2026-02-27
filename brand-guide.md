@@ -100,8 +100,8 @@ Each ecosystem role has a dedicated color used for badges, labels, and accent el
 | Role | Text Color | Background | Badge Icon |
 |------|-----------|------------|------------|
 | **Builders** | `#e99322` (orange) | `rgba(233,147,34,0.1)` | `icons/Badges/GL Badge Builder.svg` |
-| **Validators** | `#8d81e1` (purple) | `#f4f2fc` | `icons/Badges/GL Badge Validator.svg` |
-| **Community** | `#4f76f6` (blue) | `rgba(79,118,246,0.1)` | `icons/Badges/GL Badge Community.svg` |
+| **Validators** | `#4f76f6` (blue) | `rgba(79,118,246,0.1)` | `icons/Badges/GL Badge Validator.svg` |
+| **Community** | `#8d81e1` (purple) | `#f4f2fc` | `icons/Badges/GL Badge Community.svg` |
 | **Stewards** | `#3eb359` (green) | `rgba(62,179,89,0.1)` | `icons/Badges/GL Badge Stewards.svg` |
 | **GenLayer** | -- | -- | `icons/Badges/GL Badge GenLayer.svg` |
 

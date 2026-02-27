@@ -134,22 +134,22 @@ function ProfileHeader() {
               </span>
               <span
                 className="flex h-5 w-5 items-center justify-center rounded-full"
-                style={{ background: "#f4f2fc" }}
+                style={{ background: "rgba(79,118,246,0.12)" }}
                 title="Validator"
               >
                 <span
                   className="h-2.5 w-2.5 rounded-full"
-                  style={{ background: "#8d81e1" }}
+                  style={{ background: "#4f76f6" }}
                 />
               </span>
               <span
                 className="flex h-5 w-5 items-center justify-center rounded-full"
-                style={{ background: "rgba(79,118,246,0.12)" }}
+                style={{ background: "#f4f2fc" }}
                 title="Community"
               >
                 <span
                   className="h-2.5 w-2.5 rounded-full"
-                  style={{ background: "#4f76f6" }}
+                  style={{ background: "#8d81e1" }}
                 />
               </span>
             </div>
@@ -265,7 +265,7 @@ function ValidatorWaitlist() {
         {/* Icon */}
         <div
           className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full"
-          style={{ background: "#f4f2fc" }}
+          style={{ background: "rgba(79,118,246,0.12)" }}
         >
           <svg
             width="28"
@@ -277,7 +277,7 @@ function ValidatorWaitlist() {
           >
             <path
               d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z"
-              stroke="#8d81e1"
+              stroke="#4f76f6"
               strokeWidth="1.5"
               strokeLinecap="round"
               strokeLinejoin="round"
@@ -400,8 +400,8 @@ const journeyRoles = [
     illustration: "/assets/group-9.svg",
     primaryBtn: "Join the waitlist",
     secondaryBtn: "Learn more",
-    accentColor: "#8d81e1",
-    accentBg: "#f4f2fc",
+    accentColor: "#4f76f6",
+    accentBg: "rgba(79,118,246,0.10)",
   },
   {
     key: "community",
@@ -412,8 +412,8 @@ const journeyRoles = [
     illustration: "/assets/polygon-7.svg",
     primaryBtn: "Join Discord",
     secondaryBtn: "Learn more",
-    accentColor: "#4f76f6",
-    accentBg: "rgba(79,118,246,0.10)",
+    accentColor: "#8d81e1",
+    accentBg: "#f4f2fc",
   },
 ];
 

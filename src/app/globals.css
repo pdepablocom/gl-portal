@@ -72,12 +72,12 @@
   --color-role-builder: #e99322;
   --color-role-builder-bg: #e993221a;
   --color-role-builder-hover: #d4841e;
-  --color-role-validator: #8d81e1;
-  --color-role-validator-bg: #f4f2fc;
-  --color-role-validator-hover: #7b6dd0;
-  --color-role-community: #4f76f6;
-  --color-role-community-bg: #4f76f61a;
-  --color-role-community-hover: #3d64e0;
+  --color-role-validator: #4f76f6;
+  --color-role-validator-bg: rgba(79,118,246,0.1);
+  --color-role-validator-hover: #3d64e0;
+  --color-role-community: #8d81e1;
+  --color-role-community-bg: #f4f2fc;
+  --color-role-community-hover: #7b6dd0;
   --color-role-steward: #3eb359;
   --color-role-steward-bg: #3eb3591a;
   --color-role-steward-hover: #34a04d;

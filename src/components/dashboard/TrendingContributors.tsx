@@ -20,8 +20,8 @@ const contributors: Contributor[] = [
 
 const roleDotColor: Record<Role, string> = {
   builder: "bg-[#e99322]",
-  validator: "bg-[#8d81e1]",
-  community: "bg-[#4f76f6]",
+  validator: "bg-[#4f76f6]",
+  community: "bg-[#8d81e1]",
 };
 
 export default function TrendingContributors() {

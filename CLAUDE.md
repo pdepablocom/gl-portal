@@ -57,8 +57,8 @@ Defined in `src/app/globals.css` as Tailwind theme tokens:
 | Role | Text Color | Background |
 |------|-----------|------------|
 | Builders | `#e99322` (orange) | `rgba(233,147,34,0.1)` |
-| Validators | `#8d81e1` (purple) | `#f4f2fc` |
-| Community | `#4f76f6` (blue) | `rgba(79,118,246,0.1)` |
+| Validators | `#4f76f6` (blue) | `rgba(79,118,246,0.1)` |
+| Community | `#8d81e1` (purple) | `#f4f2fc` |
 | Stewards | `#3eb359` (green) | `rgba(62,179,89,0.1)` |
 
 ### Accent & Status Colors
